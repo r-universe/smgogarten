@@ -8,8 +8,3 @@
 	url = https://github.com/smgogarten/gwastools
 	shallow = true
 	registered = true
-[submodule "SeqVarTools"]
-	path = SeqVarTools
-	url = https://github.com/smgogarten/seqvartools
-	shallow = true
-	registered = true
