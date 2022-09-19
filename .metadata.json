@@ -1,5 +1,8 @@
 [
   {
     "package": "GWASTools"
+  },
+  {
+    "package": "SeqVarTools"
   }
 ]
